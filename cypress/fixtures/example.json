@@ -1,0 +1,10 @@
+{
+  "email": "emailtest3333a@email.com",
+  "name": "cypressTests",
+  "password": "12345677",
+  "adminUser":{
+    "email":"emailtest3333adm1@email.com",
+    "password":"12345677",
+    "name": "cypressTestsADM"
+  }
+}
